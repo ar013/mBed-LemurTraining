@@ -1,5 +1,5 @@
-# mBed-MissileCommandEmulator
-Emulator for a spin-off of the classic arcade game "Missile Command" to be run on the ARM mBed platform
+# mBed-LemurTraining
+Simulate an expirement to assess whether or not Lemurs have the ability to percieve numbers.
 
 -------------
 ## File Guide:
